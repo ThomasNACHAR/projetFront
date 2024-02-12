@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./assets/styles/style.css">
+    <title>Berry Very Gourmande</title>
+    <link rel="stylesheet" href="./assets/styles/global.css">
+    <link rel="stylesheet" href="./assets/styles/index.css">
 </head>
 <body>
     <div class="container">
@@ -31,12 +32,12 @@
                 <img src="./assets/img/logoX.svg" alt="X/Twitter">
                 <img src="./assets/img/logoIn.svg" alt="LinkedIn">
         </div>
-        <button class="discover">
+        <a class="discover" href="./home.php">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="48px" height="48px">
                 <path d="M0 0h24v24H0z" fill="none"/>
                 <path d="M8 5v14l11-7z"/>
             </svg>
-        </button>
+        </a>
         <p>Appuyer sur le bouton pour commencer</p>
     </div>
 </body>
