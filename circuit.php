@@ -9,13 +9,18 @@
 </head>
 <body>
     <main>
-        <h1>La balade gourmande du Berry !</h1>
+        <h1>Circuit</h1>
+        <h2>Autour des meilleurs produits locaux et grâce à notre passion commune pour les bonnes choses, découvrez la plus savoureuse des balades gourmandes…
+
+Nous explorerons à pied le charme du quartier emblématique de notre vieux Bourges, les vitrines gastronomiques et viticoles de la ville.
+
+Cette charmante ville et sa gastronomie sont riches d’histoire, laissez-nous vous guider. En petit groupe, nous découvrirons le Bourges, ses berruyers et quelques-uns des passionnés qui nourrissent…cet Art de vivre à la Française.
+</h2>
         <div class="container">
             <div class="book-container">
                 <div class="book">
                     <div class="cover">
-                        <img src="./assets/img/icone1.png" alt="Icône avec 3 bonhommes">
-                        <h2>Des Petits Groupes</h2>
+                        <h2>Petits rappels</h2>
                     </div>
                     <div class="page"></div>
                     <div class="page"></div>
@@ -23,7 +28,7 @@
                     <div class="page"></div>
                     <div class="page"></div>
                     <div class="last-page">
-                        <p>Vivez cette expérience gourmande en toute convivialité et sympathie avec les personnes de votre choix (10 personnes par groupe).</p>
+                        <p>Découvrez dans les livres suivants des informations sur la balade.</p>
                     </div>
                     <div class="backcover"></div>
                 </div>
@@ -31,8 +36,8 @@
             <div class="book-container">
                 <div class="book">
                     <div class="cover">
-                        <img src="./assets/img/icone2.png" alt="Icône avec un bonhomme qui marche">
-                        <h2>Des Belles Balades</h2>
+                        <img src="./assets/img/icone4.png" alt="Icône avec une horloge">
+                        <h2>Horaire</h2>
                     </div>
                     <div class="page"></div>
                     <div class="page"></div>
@@ -40,7 +45,11 @@
                     <div class="page"></div>
                     <div class="page"></div>
                     <div class="last-page">
-                        <p>Un Food Tour proposé dans le coeur historique de Bourges, pour une découverture unique et gustative de la ville.</p>
+                        <p>Mercredi et samedi
+
+1 ère balade de 9h à 12h
+
+2 ème balade de 13h à 16h</p>
                     </div>
                     <div class="backcover"></div>
                 </div>
@@ -48,8 +57,8 @@
             <div class="book-container">
                 <div class="book">
                     <div class="cover">
-                        <img src="./assets/img/icone3.png" alt="Icône mains serrés">
-                        <h2>Nos Partenaires Au Grand Coeur</h2>
+                        <img src="./assets/img/icone5.png" alt="Icône de plusieurs personnes">
+                        <h2>Groupe</h2>
                     </div>
                     <div class="page"></div>
                     <div class="page"></div>
@@ -57,7 +66,7 @@
                     <div class="page"></div>
                     <div class="page"></div>
                     <div class="last-page">
-                        <p>Notre meilleure sélection d’artisans de Bourges pour un moment des plus uniques.</p>
+                        <p>Jusqu’a 10 personnes avec votre guide.</p>
                     </div>
                     <div class="backcover"></div>
                 </div>
@@ -65,8 +74,8 @@
             <div class="book-container">
                 <div class="book">
                     <div class="cover">
-                        <img src="./assets/img/foodtour.jpg" alt="Plats et nourriture">
-                        <h2>Food tour et son concept</h2>
+                        <img src="./assets/img/icone6.png" alt="Icône de marche">
+                        <h2>Distance</h2>
                     </div>
                     <div class="page"></div>
                     <div class="page"></div>
@@ -74,30 +83,9 @@
                     <div class="page"></div>
                     <div class="page"></div>
                     <div class="last-page">
-                        <p>Lors d’une balade historique dans la ville de Bourges, découvrez de multiples spécialités typiques du Berry. Durant 3h, vous aurez l’occasion 
-                            d’allier littérature et gastronomie en vous rendant chez certains artisans de Bourges.
-                             La convivialité et la sympathie sera au rendez-vous pour accompagner ce moment unique et insolite !</p>
-                    </div>
-                    <div class="backcover"></div>
-                </div>
-            </div> 
-            <div class="book-container">
-                <div class="book">
-                    <div class="cover">
-                    <img src="./assets/img/creatrice-bvg.jpg" alt="Sabrina Pinthon image">
-                        <h2>Qui suis-je ?</h2>
-                    </div>
-                    <div class="page"></div>
-                    <div class="page"></div>
-                    <div class="page"></div>
-                    <div class="page"></div>
-                    <div class="page"></div>
-                    <div class="last-page">
-                        <p>Créatrice de BerryVery Gourmande, 43 ans, libraire depuis 17 ans.
+                        <p>Sur environ 3 km découvrez des artisans passionnés.
 
-J’aime la littérature, la gastronomie, et découvrir les différentes spécialités culinaires des différentes régions.
-
-Vous pouvez me retrouver sur mes réseaux sociaux ainsi que me contacter via mon mail ou numéro de téléphone.</p>
+L’histoire de produits et de lieux emblématiques pour les berruyers !</p>
                     </div>
                     <div class="backcover"></div>
                 </div>
@@ -105,7 +93,8 @@ Vous pouvez me retrouver sur mes réseaux sociaux ainsi que me contacter via mon
             <div class="book-container">
                 <div class="book">
                     <div class="cover">
-                        <h2>Ce qui vous attend !</h2>
+                    <img src="./assets/img/icone7.png" alt="Icône fourchette">
+                        <h2>Partenaires</h2>
                     </div>
                     <div class="page"></div>
                     <div class="page"></div>
@@ -113,7 +102,25 @@ Vous pouvez me retrouver sur mes réseaux sociaux ainsi que me contacter via mon
                     <div class="page"></div>
                     <div class="page"></div>
                     <div class="last-page">
-                        <img src="./assets/img/plateau.jpg" alt="">
+                        <p>Une douzaine de produits différents dégustés.
+
+6 partenaires typiques de Bourges.</p>
+                    </div>
+                    <div class="backcover"></div>
+                </div>
+            </div> 
+            <div class="book-container">
+                <div class="book">
+                    <div class="cover">
+                        <h2>Aperçu de la balade gourmande</h2>
+                    </div>
+                    <div class="page"></div>
+                    <div class="page"></div>
+                    <div class="page"></div>
+                    <div class="page"></div>
+                    <div class="page"></div>
+                    <div class="last-page">
+                        <img src="./assets/img/map.png" alt="">
                     </div>
                     <div class="backcover"></div>
                 </div>

@@ -16,7 +16,7 @@
     <nav class="navbar">
         <ul class="navbar-nav">
         <li class="logo">
-            <a href="index.php" class="nav-link">
+            <a href="home.php" class="nav-link">
             <img src="./assets/img/logononame.svg" alt="Logo BVG">
             <svg
                 aria-hidden="true"
@@ -45,7 +45,7 @@
         </li>
 
         <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="circuit.php" class="nav-link">
             <svg
                 aria-hidden="true"
                 focusable="false"
@@ -68,7 +68,7 @@
         </li>
 
         <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="partenaires.php" class="nav-link">
             <svg
                 aria-hidden="true"
                 focusable="false"
@@ -91,7 +91,7 @@
         </li>
 
         <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="reservation.php" class="nav-link">
             <svg
                 aria-hidden="true"
                 focusable="false"
@@ -113,7 +113,7 @@
         </li>
 
         <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="recettes.php" class="nav-link">
             <svg
                 aria-hidden="true"
                 focusable="false"
@@ -136,7 +136,7 @@
         </li>
 
         <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="contact.php" class="nav-link">
             <svg
                 class="theme-icon"
                 id="lightIcon"
