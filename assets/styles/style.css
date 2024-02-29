@@ -69,6 +69,10 @@ main {
     gap: 20px; 
 }
 
+.book-container:last-of-type, .book-container:last-of-type .book{
+    margin-bottom: 50vh;
+}
+
 .book-container:first-child {
     margin-top: 12vh;
 }
